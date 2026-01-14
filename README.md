@@ -22,14 +22,6 @@ I’m passionate about working with data, solving real-world problems, and build
 🔹 **Crime Pattern Analysis & Prediction**  
 A Streamlit-based application that analyzes crime trends using EDA and machine learning models to support data-driven decisions for smart cities.
 
-👉 Check out my **pinned repositories** below 👇
-
----
-
-## 📊 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhill22017&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhill22017&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
