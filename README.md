@@ -27,7 +27,7 @@ A Streamlit-based application that analyzes crime trends using EDA and machine l
 
 ## 📫 Connect With Me
 🔗 **LinkedIn:** https://www.linkedin.com/in/nikhil-sharma-2004d1a0  
-📧 **Email:** bdbhai9876@gmail.com  
+📧 **Email:** nikhillsharma455@gmail.com@gmail.com  
 
 ---
 
